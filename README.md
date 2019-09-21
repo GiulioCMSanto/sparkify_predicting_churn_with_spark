@@ -2,6 +2,9 @@
 
 As you can imagine, this project is all about Churn. And it is also all about Data Science, Machine Learning and Big Data! Specifically, in this project we will be building up together an end to end Data Science project for a Big Data problem: predicting customer churn.
 
+## Final Report
+Please, find the final report explaining the project in details in this [Medium Post](https://medium.com/@giuliosanto/sparkify-predicting-churn-with-spark-for-a-music-streaming-company-f3fe90df608d).
+
 ## Files in this repository
 - README.md: the present file
 - Sparkify.ipynb: the jupyter notebook with all the code, analysis and models
