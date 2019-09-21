@@ -37,7 +37,7 @@ Results for both models can be seen bellow:
 - F1 Score: 0.7
 - Area Under ROC: 0.61
 
-
+<img src="roc_curve.png" alt="drawing" width="400" height="300"/>
 
 **Random Forest Classifier**
 - Accuracy: 0.75
